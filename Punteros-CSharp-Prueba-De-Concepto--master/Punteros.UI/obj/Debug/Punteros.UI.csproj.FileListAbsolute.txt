@@ -1,0 +1,29 @@
+C:\Users\Laucha\source\repos\Punteros.UI\Punteros.UI\bin\Debug\Punteros.UI.exe.config
+C:\Users\Laucha\source\repos\Punteros.UI\Punteros.UI\bin\Debug\Punteros.UI.exe
+C:\Users\Laucha\source\repos\Punteros.UI\Punteros.UI\bin\Debug\Punteros.UI.pdb
+C:\Users\Laucha\source\repos\Punteros.UI\Punteros.UI\obj\Debug\Punteros.UI.Properties.Resources.resources
+C:\Users\Laucha\source\repos\Punteros.UI\Punteros.UI\obj\Debug\Punteros.UI.csproj.GenerateResource.cache
+C:\Users\Laucha\source\repos\Punteros.UI\Punteros.UI\obj\Debug\Punteros.UI.csproj.CoreCompileInputs.cache
+C:\Users\Laucha\source\repos\Punteros.UI\Punteros.UI\obj\Debug\Punteros.UI.exe
+C:\Users\Laucha\source\repos\Punteros.UI\Punteros.UI\obj\Debug\Punteros.UI.pdb
+C:\Users\Laucha\source\repos\Punteros.UI\Punteros.UI\obj\Debug\Punteros.UI.FrmPunteros.resources
+C:\Users\manag\Downloads\Punteros-CSharp-Prueba-De-Concepto--master\Punteros.UI\bin\Debug\Punteros.UI.exe.config
+C:\Users\manag\Downloads\Punteros-CSharp-Prueba-De-Concepto--master\Punteros.UI\bin\Debug\Punteros.UI.exe
+C:\Users\manag\Downloads\Punteros-CSharp-Prueba-De-Concepto--master\Punteros.UI\bin\Debug\Punteros.UI.pdb
+C:\Users\manag\Downloads\Punteros-CSharp-Prueba-De-Concepto--master\Punteros.UI\obj\Debug\Punteros.UI.csproj.AssemblyReference.cache
+C:\Users\manag\Downloads\Punteros-CSharp-Prueba-De-Concepto--master\Punteros.UI\obj\Debug\Punteros.UI.FrmPunteros.resources
+C:\Users\manag\Downloads\Punteros-CSharp-Prueba-De-Concepto--master\Punteros.UI\obj\Debug\Punteros.UI.Properties.Resources.resources
+C:\Users\manag\Downloads\Punteros-CSharp-Prueba-De-Concepto--master\Punteros.UI\obj\Debug\Punteros.UI.csproj.GenerateResource.cache
+C:\Users\manag\Downloads\Punteros-CSharp-Prueba-De-Concepto--master\Punteros.UI\obj\Debug\Punteros.UI.csproj.CoreCompileInputs.cache
+C:\Users\manag\Downloads\Punteros-CSharp-Prueba-De-Concepto--master\Punteros.UI\obj\Debug\Punteros.UI.exe
+C:\Users\manag\Downloads\Punteros-CSharp-Prueba-De-Concepto--master\Punteros.UI\obj\Debug\Punteros.UI.pdb
+D:\Universidad\Programacion\Programación 3\Punteros-CSharp-Prueba-De-Concepto--master\Punteros.UI\bin\Debug\Punteros.UI.exe.config
+D:\Universidad\Programacion\Programación 3\Punteros-CSharp-Prueba-De-Concepto--master\Punteros.UI\bin\Debug\Punteros.UI.exe
+D:\Universidad\Programacion\Programación 3\Punteros-CSharp-Prueba-De-Concepto--master\Punteros.UI\bin\Debug\Punteros.UI.pdb
+D:\Universidad\Programacion\Programación 3\Punteros-CSharp-Prueba-De-Concepto--master\Punteros.UI\obj\Debug\Punteros.UI.csproj.AssemblyReference.cache
+D:\Universidad\Programacion\Programación 3\Punteros-CSharp-Prueba-De-Concepto--master\Punteros.UI\obj\Debug\Punteros.UI.FrmPunteros.resources
+D:\Universidad\Programacion\Programación 3\Punteros-CSharp-Prueba-De-Concepto--master\Punteros.UI\obj\Debug\Punteros.UI.Properties.Resources.resources
+D:\Universidad\Programacion\Programación 3\Punteros-CSharp-Prueba-De-Concepto--master\Punteros.UI\obj\Debug\Punteros.UI.csproj.GenerateResource.cache
+D:\Universidad\Programacion\Programación 3\Punteros-CSharp-Prueba-De-Concepto--master\Punteros.UI\obj\Debug\Punteros.UI.csproj.CoreCompileInputs.cache
+D:\Universidad\Programacion\Programación 3\Punteros-CSharp-Prueba-De-Concepto--master\Punteros.UI\obj\Debug\Punteros.UI.exe
+D:\Universidad\Programacion\Programación 3\Punteros-CSharp-Prueba-De-Concepto--master\Punteros.UI\obj\Debug\Punteros.UI.pdb
